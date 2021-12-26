@@ -1,0 +1,16 @@
+<header>  
+  <div class="navbar navbar-dark bg-dark shadow-sm">
+    <div class="container d-flex justify-content-between">
+      <a [routerLink]="['/products']" class="navbar-brand d-flex align-items-center">
+        <strong>WELCOME OWN PIZZA  </strong>
+      </a>
+      <a href="javascript:void(0)" class="cart position-relative d-inline-flex" 
+      aria-label="View your shopping cart"  (click)="openCart()">
+       <i class="fas fa fa-shopping-cart fa-lg"></i>
+       <span class="cart-basket d-flex align-items-center justify-content-center">
+         {{ sum$ |async }}
+       </span>
+     </a>
+    </div>
+  </div>
+</header>

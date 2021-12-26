@@ -1,0 +1,68 @@
+﻿{
+  "data": [
+    {
+      "id": 1,
+      "name": "NON-VEG PIZZA",
+      "description": "Tomato and chicken",
+      "price": "100.00",
+      "quantity": "10",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "VEG PIZZA",
+      "description": "Oregano souce and corn ",
+      "price": "130.00",
+      "quantity": "10",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PAN PIZZA",
+      "description": "Pizza with test",
+      "price": "250.00",
+      "quantity": "3",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PIZZA MANIA",
+      "description": "Pizza with test",
+      "price": "250.00",
+      "quantity": "3",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cold PIZZA",
+      "description": "Pizza with test",
+      "price": "250.00",
+      "quantity": "3",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bread PIZZA",
+      "description": "Pizza with test",
+      "price": "250.00",
+      "quantity": "3",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "PAN PIZZA",
+      "description": "Pizza with test",
+      "price": "250.00",
+      "quantity": "3",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PAN PIZZA",
+      "description": "Pizza with test",
+      "price": "250.00",
+      "quantity": "3",
+      "image": "http://truth-events.com/wp-content/uploads/2019/09/dummy.jpg"
+    }
+  ]
+}
